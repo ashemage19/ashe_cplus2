@@ -1,2 +1,2 @@
 # cplus2
-ashe's projects on an IT course. Uploaded on school drive last 08/26/2021, re-uploading it here for archiving purposes.
+The repository contains codes made by ashe for her IT course in her college program Electronics Engineering. These were uploaded for archiving purposes (ashe has a hobby of archiving things). Feel free to use these as basis for your studies.(ﾉˊᗜˋ)ﾉ
